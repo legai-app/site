@@ -1,0 +1,100 @@
+html {
+  margin: 0;
+  height:100%;
+  width:100%;
+  padding:0;
+}
+
+body {
+  background-color: #2F80ED;
+  font-family: Open Sans;
+  color: #FFFFFF;
+  font-size: 20px;
+  margin: 0;
+  height:100%;
+  width:100%;
+  padding:0;
+}
+
+/* navbar */
+
+.navbar {
+  padding: 10px 0;
+}
+
+.navbar .nav-item {
+  margin: 0;
+  padding: 0;
+}
+
+.navbar .nav-item .nav-link {
+  font-size: 35px;
+  font-weight: 500;
+  color: #FFFFFF;
+  margin: 0 15px;
+  padding: 0;
+}
+
+.navbar .nav-item .nav-link:hover {
+  color: #F2994A;
+}
+
+.navbar .nav-item .nav-link:active {
+  color: #F2C94C;
+}
+
+/* all sections */
+
+section {
+  height: 100%;
+  width: 100%;
+}
+
+/* main */
+
+#main {
+  background-image: url('../img/MainGraphic.png'), linear-gradient(#2F80ED, #2D9CDB);
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+}
+
+#main .m ain-content {
+}
+
+#main .demo {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 7px 70px;
+
+  position: static;
+
+  background: #FFFFFF;
+  box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.2);
+  border-radius: 8px;
+}
+
+#main .demo .demo-text {
+
+  font-weight: 600;
+
+  color: #2D9CDB;
+  /* identical to box height */
+  letter-spacing: 0.05em;
+}
+
+/* what */
+
+#what .col {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#what .card {
+  color: #658CC1;
+  border-radius: 8px;
+  height: 100%;
+}
