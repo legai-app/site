@@ -55,10 +55,10 @@ section {
   background-image: url('../img/MainGraphic.png'), linear-gradient(#2F80ED, #2D9CDB);
   background-position: center; /* Center the image */
   background-repeat: no-repeat; /* Do not repeat the image */
-  background-size: cover; /* Resize the background image to cover the entire container */
+  padding-bottom: 37.5%;
 }
 
-#main .m ain-content {
+#main .main-content {
 }
 
 #main .demo {
