@@ -9,7 +9,6 @@ body {
   background-color: #2F80ED;
   font-family: Open Sans;
   color: #FFFFFF;
-  font-size: 20px;
   margin: 0;
   height:100%;
   width:100%;
@@ -98,6 +97,7 @@ section {
   color: #658CC1;
   border-radius: 8px;
   height: 100%;
+
 }
 
 #what .card .card-img {
