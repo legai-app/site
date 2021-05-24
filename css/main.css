@@ -55,7 +55,7 @@ section {
   background-image: url('../img/MainGraphic.png'), linear-gradient(#2F80ED, #2D9CDB);
   background-position: center; /* Center the image */
   background-repeat: no-repeat; /* Do not repeat the image */
-  padding-bottom: 37.5%;
+  background-size: cover; /* Resize the background image to cover the entire container */
 }
 
 #main .main-content {
