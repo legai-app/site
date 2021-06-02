@@ -372,7 +372,7 @@ p {
       height: 100%;
       border-style: solid;
       /* Spinner Color */
-      border-color: #F2C94C #F2994A #56CCF2;  
+      border-color: #F2C94C #F2994A #56CCF2;
 
       border-radius: 50%;
       border-width: 6px; }
@@ -1134,7 +1134,7 @@ p {
   padding-bottom: 225px; }
 
 /*===========================
-    02. Header CSS 
+    02. Header CSS
 ===========================*/
 /*===== NAVBAR =====*/
 .navbar-area {
@@ -1588,7 +1588,7 @@ p {
     margin-bottom: 20px; }
 
 /*===========================
-    04. About CSS 
+    04. About CSS
 ===========================*/
 .about-section {
   background: linear-gradient(to top right, #56CCF2 0%, #589AF2 100%);
@@ -1773,7 +1773,7 @@ p {
     width: 100%; }
 
 /*===========================
-    05. Benefits CSS 
+    05. Benefits CSS
 ===========================*/
 .benefit-section .benefit-box-style-2 {
   padding: 0;
@@ -1813,7 +1813,7 @@ p {
     padding: 0 30px 35px; }
 
 /*===========================
-    06. How CSS 
+    06. How CSS
 ===========================*/
 .how-section .how-img-wrapper {
   position: relative;
@@ -1855,7 +1855,7 @@ p {
 
 
 /*===========================
-    10. Subscribe CSS 
+    10. Subscribe CSS
 ===========================*/
 .subscribe-section {
   position: relative; }
@@ -1868,7 +1868,7 @@ p {
       font-size: 16px;
       padding: 18px 30px;
       background: #fff;
-      color: #658CC1; 
+      color: #658CC1;
       -webkit-transition: all 0.3s ease-out 0s;
       -moz-transition: all 0.3s ease-out 0s;
       -ms-transition: all 0.3s ease-out 0s;
@@ -1900,7 +1900,7 @@ p {
         background-position: right center; }
 
 /*===========================
-    12. Contact CSS 
+    12. Contact CSS
 ===========================*/
 .contact-section {
   position: relative;
@@ -2057,7 +2057,7 @@ p {
     padding: 18px 90px; }
 
 /*===========================
-    13. Footer CSS 
+    13. Footer CSS
 ===========================*/
 .footer {
   position: relative;
